@@ -1,0 +1,8 @@
+classes=1000
+train  = /data/imagenet/imagenet1k.train.list
+valid  = /data/imagenet/imagenet1k.valid.list
+backup = /home/pjreddie/backup/
+labels = datasets/SmartZone/data/imagenet.labels.list
+names  = datasets/SmartZone/data/imagenet.shortnames.list
+top=5
+
